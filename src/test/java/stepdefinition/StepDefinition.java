@@ -32,6 +32,7 @@ public class StepDefinition {
     public void bank_account_information_was_displayed() throws Throwable {
         //Displaying account information
     	System.out.println("User's Account information was displayed");
+    	System.out.println("Bank account#: 768354710945871348");
     }
 
 }
